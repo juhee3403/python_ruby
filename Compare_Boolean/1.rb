@@ -1,0 +1,6 @@
+puts(1==1)
+puts(1==2)
+puts(1>0)
+puts(2>4)
+puts(true)
+puts(false)
